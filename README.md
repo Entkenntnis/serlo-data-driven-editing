@@ -31,11 +31,13 @@ Beispiel:
 
 ### Schritt 4: Zeitplan
 
-Notiere, zu welchem Zeitpunkt die Änderungen verfügbar wurden. Die Auswertung kann dann sieben Tage später stattfinden. Datum dafür eintragen.
+Notiere, zu welchem Zeitpunkt die Änderungen verfügbar wurden. Die Auswertung kann dann sieben Tage später stattfinden. Datum dafür eintragen. Mit dem Label "Im Test" versehen.
 
 Beispiel:
 
 ![grafik](https://user-images.githubusercontent.com/13507950/107638197-87c5f800-6c6f-11eb-82e5-182903e983cc.png)
+
+![grafik](https://user-images.githubusercontent.com/13507950/107638313-b2b04c00-6c6f-11eb-8945-e7c6c544f947.png)
 
 ### Schritt 5: Auswertung
 
