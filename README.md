@@ -10,7 +10,7 @@ Anlegen eines neuen Issues mit dem Titelformat `[Überarbeitung] _Bereich_ von _
 
 ### Schritt 2: Datenerfassung
 
-Der Ist-Zustand soll erfasst werden, idealerweise mit folgenden Daten:
+Der Ist-Zustand soll erfasst werden (Daten verfügbar unter https://frontend-git-statistics-and-insights-alpha.serlo.vercel.app/), idealerweise mit folgenden Daten:
 
 - Link zur Seite
 - Datum der Erfassung (Statistiken stammen aus den 7 Tagen davor)
