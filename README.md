@@ -6,7 +6,7 @@ Pilotversuch zur datengetriebenen Bearbeitung von Inhalten auf Serlo. Dieses Rep
 
 ### Schritt 1: Issue anlegen
 
-Anlegen eines neuen Issues mit dem Titelformat `[Überarbeitung] _Bereich_ von _Link_`. Siehe die [Issues](https://github.com/Entkenntnis/serlo-data-driven-editing/issues) für Beispiele.
+Anlegen eines neuen Issues mit dem Titelformat `_Typ_ _Titel_`. Siehe die [Issues](https://github.com/Entkenntnis/serlo-data-driven-editing/issues) für Beispiele.
 
 ### Schritt 2: Datenerfassung
 
