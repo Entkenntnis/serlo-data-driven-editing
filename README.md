@@ -19,7 +19,7 @@ Der Ist-Zustand soll erfasst werden, idealerweise mit folgenden Daten:
 
 Beispiel:
 
-![grafik](https://user-images.githubusercontent.com/13507950/107637807-ffdfee00-6c6e-11eb-85b1-0369e65aab7d.png)
+![grafik](https://user-images.githubusercontent.com/13507950/107638068-606f2b00-6c6f-11eb-8ada-bd2dbb65fe63.png)
 
 ### Schritt 3: Überarbeitung
 
