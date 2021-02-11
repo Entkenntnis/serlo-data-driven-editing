@@ -25,9 +25,17 @@ Beispiel:
 
 Eine Beschreibung, was geändert wurde und mit welchen Gedanken diese Änderungen durchgeführt wurden. Dann noch einen Screenshot vom neuen Inhalt hinzufügen.
 
+Beispiel:
+
+![grafik](https://user-images.githubusercontent.com/13507950/107638150-7977dc00-6c6f-11eb-8d3a-d6b694dccfbd.png)
+
 ### Schritt 4: Zeitplan
 
 Notiere, zu welchem Zeitpunkt die Änderungen verfügbar wurden. Die Auswertung kann dann sieben Tage später stattfinden. Datum dafür eintragen.
+
+Beispiel:
+
+![grafik](https://user-images.githubusercontent.com/13507950/107638197-87c5f800-6c6f-11eb-82e5-182903e983cc.png)
 
 ### Schritt 5: Auswertung
 
