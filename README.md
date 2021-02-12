@@ -2,7 +2,7 @@
 
 Pilotversuch zur datengetriebenen Bearbeitung von Inhalten auf Serlo. Dieses Repo soll alle Änderungen, die ich durchführe, dokumentieren und eine Reflektion über die Statistiken (und deren Veränderungen) enthalten.
 
-## Arbeitsweise
+## Arbeitsweise (work in progress, noch nicht final)
 
 ### Schritt 1: Issue anlegen
 
